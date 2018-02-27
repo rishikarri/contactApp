@@ -8,11 +8,14 @@
     "eslint-plugin-import": "^2.9.0",
     "eslint-plugin-jsx-a11y": "^6.0.3",
     "eslint-plugin-react": "^7.7.0",
+    "gulp": "^3.9.1",
     "react-scripts": "1.1.1"
   },
   "dependencies": {
     "react": "^16.2.0",
-    "react-dom": "^16.2.0"
+    "react-dom": "^16.2.0",
+    "semantic-ui-css": "^2.3.0",
+    "semantic-ui-react": "^0.78.3"
   },
   "scripts": {
     "start": "react-scripts start",
